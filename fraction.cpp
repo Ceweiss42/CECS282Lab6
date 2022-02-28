@@ -56,7 +56,7 @@ Fraction::Fraction(int num, int den)
 
 Fraction :: ~Fraction ()
 {
-
+  //test
 }
  
 
